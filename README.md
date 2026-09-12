@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<p data-importer="text" align="left">has a lot of knowledge at</p>
+<p data-importer="text" align="left">Done</p>
 
 ###
 
@@ -32,7 +32,7 @@
 
 <br clear="both">
 
-<p data-importer="text" align="left">still learning it</p>
+<p data-importer="text" align="left">still</p>
 
 ###
 
@@ -70,7 +70,7 @@
 
 <br clear="both">
 
-<p data-importer="text" align="left">currently on..</p>
+<p data-importer="text" align="left">currently</p>
 
 ###
 
