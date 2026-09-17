@@ -65,4 +65,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
 </div>
 
-###
+##
+
+<img width="128" height="128" alt="Python_Programming_Basics" src="https://github.com/user-attachments/assets/3c791e7d-77b7-4b7c-9234-b417da719fdd" />
+<img width="128" height="128" alt="Wireless_Networks_Penetration_Testing" src="https://github.com/user-attachments/assets/7151a257-05dc-4f9b-b6e6-869c06998faa" />
+<img width="128" height="128" alt="Implementation_of_Computer_Network_Fundamentals" src="https://github.com/user-attachments/assets/4f1e4e25-831f-4b53-bde0-732169e62977" />
+<img width="128" height="128" alt="Introduction_to_Network_Security" src="https://github.com/user-attachments/assets/788f1052-eb58-42db-9ca4-dc6f826e32c4" />
+<img width="128" height="128" alt="Ethical_Hacking" src="https://github.com/user-attachments/assets/c799735f-5e7f-4193-9257-5c2b8ae963d7" />
+<img width="128" height="128" alt="Computer_Network_Fundamentals" src="https://github.com/user-attachments/assets/34a68d4f-a86b-4489-9607-8cbf49ebf204" />
+
+
+
+
+
+
+
+
+
+
